@@ -2,6 +2,7 @@
 
 Assignment-1
 
+
 1. Write a program which will find factors of given number and find whether the factor is even or odd.
 Hint: Use Loop with if-else statements
 
@@ -82,3 +83,13 @@ If the following n is given as input to the program:
 5
 Then, the output of the program should be:
 3.55
+
+Assignment-3
+
+Domain – Telecom
+focus – Optimization
+Business challenge/requirement
+LifeTel Telecom is the latest entrant in the highly competitive Telecom market of Singapore. It issues SIM to the verified users. Till now verification was manual through the photocopy of approved id card document. However, government has recently introduced Social ID called Reference ID which is mapped to fingerprint of user. LifeTel should now verify user against the fingerprint and Reference ID
+
+Key issues:
+Build a system where when user enters Reference ID it is encrypted, so that hackers cannot view the mapping of Reference ID and finger print
